@@ -1,2 +1,5 @@
 # startups_data_visualization
-Paper about the data visualizations created regarding startup worldwide information.
+
+Master's Degree in Big Data analysis and engeneering. Practical Assignment of the Systems for Data Visualization course.
+
+Dataset: https://www.kaggle.com/arindam235/startup-investments-crunchbase
